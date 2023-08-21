@@ -1,0 +1,9 @@
+.casado {
+  font-weight: bold;
+}
+
+.pd {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
